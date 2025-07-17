@@ -4,22 +4,22 @@
         <title>SparkleDemo2</title>
         <item>
             <title>2.0</title>
-            <pubDate>Thu, 17 Jul 2025 15:46:45 +0800</pubDate>
+            <pubDate>Thu, 17 Jul 2025 17:10:14 +0800</pubDate>
             <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://cms.myapp.com/wupload/xy/yybtech/mEWhQVYX.zip" length="776690" type="application/octet-stream" sparkle:edSignature="/X78AoMShX73+Ak1b3Ev4T3c7Ll509U5v8IOdcXl8NaHAelvRS7mXI3zSGtSDo3WHrMzcv9snBN/gqDxHuLjAA=="/>
+            <enclosure url="https://cms.myapp.com/wupload/xy/yybtech/w4uut7Bq.zip" length="778778" type="application/octet-stream" sparkle:edSignature="Ex3vmeXLcNQVtpWegh1CbfOqvms0VCKMZNaSyWV+XBz1VztgAyJxZXdDLQZFsBBCc02FYFM05nFVyDHwmJK3DA=="/>
             <sparkle:deltas>
-                <enclosure url="https://cms.myapp.com/wupload/xy/yybtech/0AEIxsNg.delta" sparkle:deltaFrom="1" length="3962" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="438656" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="k6BgnUldk3nggaJeujsCLizkThrpqBQcLCS9td2+1cPu1RoBztxoAifs/P7Mv7aqScs1vYsWsI6fRUT6Maa1BA=="/>
+                <enclosure url="https://cms.myapp.com/wupload/xy/yybtech/xHmJWJPh.delta" sparkle:deltaFrom="1" length="978" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="438656" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="51oH0HmCBwdDCzR2peVyjFBhZVvW/GH1Ziq9eXl+HoBB/J/OZWNJSExme58jYSv7YnfiW3BipXvWcVlK4nW8DQ=="/>
             </sparkle:deltas>
         </item>
         <item>
             <title>1.0</title>
-            <pubDate>Thu, 17 Jul 2025 15:41:18 +0800</pubDate>
+            <pubDate>Thu, 17 Jul 2025 17:09:24 +0800</pubDate>
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://cms.myapp.com/wupload/xy/yybtech/yCt28NxT.zip" length="776698" type="application/octet-stream" sparkle:edSignature="GEe0UKG6257dU8o3owLvsN0PfdoULKLeaTEcA+jZJRC6FPyAvycOXEVSuxShHBbsrqWyarWrJEMN1/Mdl6l/Cg=="/>
+            <enclosure url="https://cms.myapp.com/wupload/xy/yybtech/erDENIXj.zip" length="778777" type="application/octet-stream" sparkle:edSignature="XsZgvB2ED76i3XOoW382X7rJNPygWeD5QSoh0Viu3IC4bbkkCfNwQX/mCcFk8TQbyu7EIq72fwrStKJD5s+QCg=="/>
         </item>
     </channel>
 </rss>
